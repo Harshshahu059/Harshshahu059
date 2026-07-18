@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 3rd Year Undergraduate at **Hislop College**
+- 🎓 Graduate at **Hislop College**
 - 💼 **React Developer Intern** at **Talentrise Technokrate** (3 months)
 - 📱 Specializing in **Full-Stack Web & Mobile Development**
 - 🌱 Currently improving **advanced React & backend scalability**
